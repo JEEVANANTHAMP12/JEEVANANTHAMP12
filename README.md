@@ -42,18 +42,15 @@ I build clean, responsive, and user-focused web applications. Passionate about w
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <h3>Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
