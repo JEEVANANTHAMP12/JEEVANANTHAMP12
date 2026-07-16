@@ -39,17 +39,28 @@ I build clean, responsive, and user-focused web applications. Passionate about w
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<h3 align="center">Contribution Graph</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAMP12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true" alt="Activity Graph" />
 
 ---
 
