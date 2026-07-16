@@ -1,20 +1,34 @@
-# Hi, I'm Jeevanantham
+# Jeevanantham P
+
+<p align="center">
+  <img src="https://github.com/JEEVANANTHAMP12.png?size=250" alt="Jeevanantham Profile Picture" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=JEEVANANTHAMP12">
     <img src="https://komarev.com/ghpvc/?username=JEEVANANTHAMP12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/twitter/follow/username.svg?style=flat&logo=twitter&label=Follow" alt="Twitter Follow" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Frontend Developer | React Specialist | UI/UX Enthusiast</strong>
 </p>
 
 ## About Me
 
-I am a passionate developer with a strong interest in web development and programming. I enjoy building practical projects, strengthening my problem-solving skills, and continuously improving through hands-on learning.
+Passionate frontend developer with 2+ years of experience building interactive web applications. Expert in React ecosystem with strong foundation in JavaScript and modern web technologies. Focused on creating clean, responsive, and user-friendly interfaces that deliver exceptional user experiences.
+
+I thrive on solving complex UI challenges and transforming design mockups into fully functional, responsive applications. Committed to writing clean, maintainable code and staying up-to-date with the latest frontend trends and best practices.
 
 ## Current Focus
 
-- Advancing my frontend development skills
-- Building personal and academic projects
-- Learning modern web development best practices
+- Building high-performance React applications and component libraries
+- Developing full-stack projects with modern frameworks
+- Implementing best practices for testable, maintainable code
+- Exploring advanced CSS techniques and UI/UX design patterns
 
 ## Tech Stack
 
@@ -68,4 +82,4 @@ I am a passionate developer with a strong interest in web development and progra
 
 ## Personal Motto
 
-> Stay healthy. Stay consistent. Keep learning.
+> Health first. Consistency drives growth. Continuous learning fuels innovation.
