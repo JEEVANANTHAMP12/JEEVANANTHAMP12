@@ -1,90 +1,107 @@
-# Hi, I'm [Your Name] 👋
+<div align="center">
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeevanantham+👋;Aspiring+Data+Analyst;Turning+Data+into+Insights" alt="Typing SVG" />
 
-### 3rd Year Student | Aspiring Data Analyst
+  <h3>3rd Year Student | Data Analyst</h3>
+  
+  <p>Passionate about transforming raw data into meaningful insights and actionable recommendations.</p>
 
-Turning raw data into clear insights. Currently building strong foundations in data analysis, visualization, and storytelling with data.
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=JEEVANANTHAMP12&style=flat-square&color=blue" alt="Profile views" />
+
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 3rd Year B.Tech / B.E. in Computer Science / Data Science / Statistics
-- 📊 Passionate about **Data Analysis**, **Data Visualization**, and **Business Insights**
-- 🌱 Currently learning: Advanced SQL, Statistical Analysis, Power BI / Tableau, and basic Machine Learning
-- 💡 I love finding patterns and telling stories through data
-- 📫 Reach me at: [your.email@gmail.com](mailto:your.email@gmail.com)
+- 🎓 3rd Year B.Tech / B.E. in Computer Science / Data Science
+- 📊 Focused on **Data Analysis**, **Data Visualization** & **Business Insights**
+- 🌱 Currently leveling up in: Advanced SQL, Statistical Analysis, Power BI & Tableau
+- 💡 I enjoy finding hidden patterns and telling stories with data
+- 📫 Reach me: [jeevanantham129787@gmail.com](mailto:jeevanantham129787@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Programming & Analysis**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,sqlite,pandas,numpy,matplotlib,seaborn,sklearn,git,github,vscode,jupyter&theme=dark" />
+</div>
 
-**Data Libraries**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<br>
 
-**Visualization & BI Tools**  
+**BI & Visualization Tools**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-**Databases & Others**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Tools Used | Link |
-|---------|-------------|------------|------|
-| **[Sales Dashboard Analysis]** | End-to-end analysis of sales data with interactive dashboard and key business insights | Python, Pandas, Power BI / Tableau | [Dashboard](link) · [Code](https://github.com/username/repo) |
-| **[Customer Churn Analysis]** | Analyzed customer behavior to identify churn patterns and recommend retention strategies | SQL, Python, Seaborn, Scikit-learn | [Report](link) · [Code](https://github.com/username/repo) |
-| **[COVID-19 / E-commerce Data Analysis]** | Exploratory data analysis + visualization of real-world dataset with actionable insights | Python, Pandas, Matplotlib, Plotly | [Notebook](https://github.com/username/repo) |
-
-> Tip: Showcase projects that include **cleaning → analysis → visualization → insights**. Recruiters love this flow.
+| Project | Description | Tools | Links |
+|:-------:|:-----------:|:-----:|:-----:|
+| **Sales Insights Dashboard** | End-to-end sales analysis with interactive dashboard & key business recommendations | Python, Pandas, Power BI | [Live](link) · [Code](https://github.com/JEEVANANTHAMP12/repo) |
+| **Customer Churn Analysis** | Identified churn patterns and built predictive insights for retention | SQL, Python, Seaborn, Scikit-learn | [Report](link) · [Code](https://github.com/JEEVANANTHAMP12/repo) |
+| **E-commerce / COVID Data Analysis** | Complete EDA + visualization with clear actionable insights | Python, Pandas, Matplotlib, Plotly | [Notebook](https://github.com/JEEVANANTHAMP12/repo) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+</div>
+
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JEEVANANTHAMP12&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
-### 🌐 Connect with me
+### 📈 Contribution Graph
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAMP12&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanantham12-p)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jeeva1290)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jeevananthamp.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevanantham129787@gmail.com)
+  
+</div>
 
 ---
 
 ### 💡 Currently Focusing On
 
-- Strengthening SQL & advanced data analysis skills
-- Building end-to-end data projects with clear business insights
-- Learning Power BI / Tableau dashboards + storytelling
+- Mastering advanced SQL & data storytelling
+- Building complete end-to-end analysis projects
+- Creating interactive dashboards (Power BI / Tableau)
 - Participating in Kaggle competitions & case studies
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+<div align="center">
+  ⭐️ From <a href="https://github.com/JEEVANANTHAMP12">JEEVANANTHAMP12</a>
+</div>
