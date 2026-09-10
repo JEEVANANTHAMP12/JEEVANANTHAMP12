@@ -1,14 +1,12 @@
 <div align="center">
   
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeevanantham+👋;Aspiring+Data+Analyst;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeevanantham+👋;Aspiring+Data+Analyst;Turning+Data+into+Insights" alt="Typing SVG" />
 
   <h3>3rd Year Student | Data Analyst</h3>
   
   <p>Passionate about transforming raw data into meaningful insights and actionable recommendations.</p>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=JEEVANANTHAMP12&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JEEVANANTHAMP12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -33,6 +31,7 @@
 <br>
 
 **BI & Visualization Tools**  
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -53,21 +52,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
-</div>
-
-<br>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JEEVANANTHAMP12&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ---
@@ -75,7 +67,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAMP12&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAMP12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
