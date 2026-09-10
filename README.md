@@ -52,22 +52,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JEEVANANTHAMP12&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAMP12&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 ---
