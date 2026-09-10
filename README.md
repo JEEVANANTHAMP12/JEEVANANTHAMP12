@@ -64,6 +64,22 @@
 
 ---
 
+### 📈 More GitHub Insights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JEEVANANTHAMP12&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JEEVANANTHAMP12&theme=github_dark" height="200" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JEEVANANTHAMP12&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JEEVANANTHAMP12&theme=github_dark" height="200" />
+</div>
+
+---
+
 ### 🌐 Connect with Me
 
 <div align="center">
