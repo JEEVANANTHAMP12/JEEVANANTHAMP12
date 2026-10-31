@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Jeevanantham 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=180&section=header&text=Jeevanantham&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20Insights%20%7C%20Impact&descAlignY=60&descSize=18" alt="Animated profile header">
 
-### Aspiring Data Analyst · Computer Science Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Turning+data+into+decisions;Building+with+curiosity+%F0%9F%9A%80" alt="Animated introduction">
+
+### Computer Science Student · Data Enthusiast
 
 I enjoy turning raw data into clear insights, useful visualizations, and practical business recommendations.
 
@@ -23,7 +25,7 @@ I enjoy turning raw data into clear insights, useful visualizations, and practic
 
 </div>
 
-## About me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand"> About me
 
 - 🎓 Third-year Computer Science / Data Science student
 - 📊 Interested in data analysis, data visualization, and business intelligence
@@ -31,7 +33,7 @@ I enjoy turning raw data into clear insights, useful visualizations, and practic
 - 💡 I like discovering patterns in data and communicating them through simple, effective stories
 - 🤝 Open to learning, collaborating, and contributing to meaningful projects
 
-## Skills
+## 🧰 Skills
 
 ### Data and programming
 
@@ -69,9 +71,13 @@ I enjoy turning raw data into clear insights, useful visualizations, and practic
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JEEVANANTHAMP12&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Jeevanantham's GitHub statistics">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEEVANANTHAMP12&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEEVANANTHAMP12&bg_color=0D1117&color=58A6FF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph">
+
 </div>
 
-## Current focus
+## 🚀 Current focus
 
 - Building end-to-end data analysis projects
 - Improving SQL, statistical analysis, and data storytelling
@@ -81,6 +87,8 @@ I enjoy turning raw data into clear insights, useful visualizations, and practic
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer&animation=fadeIn" alt="Animated profile footer">
 
 Thanks for visiting my profile. Feel free to connect!
 
