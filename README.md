@@ -2,7 +2,7 @@
 
 # Hi, I'm Jeevanantham 👋
 
-### Aspiring Data Analyst · Computer Science Student
+### Aspiring Data Analyst · Artificial Intelligence & Data Science Student
 
 I enjoy turning raw data into clear insights, useful visualizations, and practical business recommendations.
 
